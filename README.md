@@ -1,11 +1,11 @@
 # SMS Gateway: Android app
 
   Turns an Android phone into an SMS gateway for your
-  [SMS Gateway](https://app.tritech-server.site) account. Not on Google Play.
+  [SMS Gateway](https://app.tritech.com.pk) account. Not on Google Play.
 
   ## Install
   1. Download the latest APK from **Releases**, or scan the QR code at
-     https://app.tritech-server.site/download
+     https://app.tritech.com.pk/download
   2. Allow installs from your browser when Android asks.
   3. Open the app → **Scan pairing QR** → scan the code from
      Dashboard → Devices → Add phone.
